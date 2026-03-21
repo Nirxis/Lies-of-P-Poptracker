@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Vengini's Workshop - Locations",
+    "access_rules": ["key_cityhall_courtyard"],
+    "sections": [
+      {
+        "name": "upper left room near ladder",
+        "access_rules": []
+      },
+      {
+        "name": "left building ground floor",
+        "access_rules": []
+      },
+      {
+        "name": "left side note collectible",
+        "access_rules": []
+      },
+      {
+        "name": "central upper room",
+        "access_rules": []
+      },
+      {
+        "name": "top right room",
+        "access_rules": []
+      },
+      {
+        "name": "central combat arena",
+        "access_rules": []
+      },
+      {
+        "name": "right side of central arena",
+        "access_rules": []
+      },
+      {
+        "name": "lower central hallway",
+        "access_rules": []
+      },
+      {
+        "name": "right side room",
+        "access_rules": []
+      },
+      {
+        "name": "lower right area near mechanism",
+        "access_rules": []
+      },
+      {
+        "name": "top right corner",
+        "access_rules": []
+      },
+      {
+        "name": "far right side",
+        "access_rules": []
+      }
+    ]
+  }
+]

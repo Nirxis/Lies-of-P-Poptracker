@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Workshop Union Entrance - Locations",
+    "access_rules": ["key_cityhall_courtyard"],
+    "sections": [
+      {
+        "name": "Beside Puppet on Bodies",
+        "access_rules": []
+      },
+      {
+        "name": "Overlooking Houses",
+        "access_rules": []
+      },
+      {
+        "name": "In Corner",
+        "access_rules": []
+      },
+      {
+        "name": "House Alley",
+        "access_rules": []
+      },
+      {
+        "name": "Next to Bomb Puppet",
+        "access_rules": []
+      },
+      {
+        "name": "Next to Trees",
+        "access_rules": []
+      },
+      {
+        "name": "On Boxes",
+        "access_rules": []
+      },
+      {
+        "name": "Behind Boxes",
+        "access_rules": []
+      },
+      {
+        "name": "Under Stairs",
+        "access_rules": []
+      }
+    ]
+  }
+]
