@@ -48,6 +48,18 @@
         }
       },
       {
+        "title": "Ch03",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "WUE",
+              "content": { "type": "map", "maps": ["Workshop Union Entrance"] }
+            }
+          ]
+        }
+      },
+      {
         "title": "Hotel Krat",
         "content": {
           "type": "tabbed",

@@ -49,13 +49,14 @@ LOCATION_MAPPING = {
     [344] = { "@KCS Plaza - Locations/Legion Caliber" },
 
     -- =========================================================
-    -- Hotel Krat (IDs 25-29)
+    -- Hotel Krat
     -- =========================================================
     [ 25] = { "@Hotel Krat Entrance - Locations/wagon near fountain after Parade Master" },
     [ 26] = { "@Hotel Krat Entrance - Locations/wagon near dead-end after Parade Master" },
     [ 27] = { "@Hotel Krat Entrance - Locations/garden before Hotel Krat door" },
     [ 28] = { "@Hotel Krat Entrance - Locations/pile of corpses before Hotel Krat door" },
     [ 29] = { "@Hotel Krat Main Floor - Locations/table near Antonia" },
+    [ 79] = { "@Hotel Krat Upper Floor - Locations/from Gepetto after Scrapped Watchman" },
 
     -- =========================================================
     -- Elysion Boulevard (IDs 30-61)
@@ -117,5 +118,18 @@ LOCATION_MAPPING = {
     [ 76] = { "@Krat City Hall - Locations/Quartz" },
     [ 77] = { "@Krat City Hall - Locations/Small Wooden Officer Puppet" },
     [ 78] = { "@Krat City Hall - Locations/after Scrapped Watchman" },
+
+    -- =========================================================
+    -- Workshop Union Entrance (IDs 80-88)
+    -- =========================================================
+    [ 80] = { "@Workshop Union Entrance - Locations/wagon after opening door" },
+    [ 81] = { "@Workshop Union Entrance - Locations/left side before roofs" },
+    [ 82] = { "@Workshop Union Entrance - Locations/red rooftop" },
+    [ 83] = { "@Workshop Union Entrance - Locations/ladder from red rooftops, down" },
+    [ 84] = { "@Workshop Union Entrance - Locations/dead-end down ladder from red rooftops" },
+    [ 85] = { "@Workshop Union Entrance - Locations/destructable boxes at a side path" },
+    [ 86] = { "@Workshop Union Entrance - Locations/destructable boxes before bridge" },
+    [ 87] = { "@Workshop Union Entrance - Locations/destructable boxes by the phone riddle" },
+    [ 88] = { "@Workshop Union Entrance - Locations/staircase after bridge" },
 
 }

@@ -30,6 +30,12 @@
     "img": "images/maps/krat_city_hall.png"
   },
   {
+    "name": "Workshop Union Entrance",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/workshop_union_entrance.png"
+  },
+  {
     "name": "Hotel Krat - Entrance",
     "location_size": 12,
     "location_border_thickness": 2,

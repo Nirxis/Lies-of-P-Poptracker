@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Workshop Union Entrance",
+    "children": [
+      {
+        "name": "Throwing Cell",
+        "sections": [
+          {
+            "ref": "Workshop Union Entrance - Locations/wagon after opening door"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Workshop Union Entrance",
+            "x": 308,
+            "y": 921
+          }
+        ]
+      },
+      {
+        "name": "Miracle Cure",
+        "sections": [
+          {
+            "ref": "Workshop Union Entrance - Locations/left side before roofs"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Workshop Union Entrance",
+            "x": 762,
+            "y": 1297
+          }
+        ]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Workshop Union Entrance - Locations/red rooftop"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Workshop Union Entrance",
+            "x": 1047,
+            "y": 1140
+          }
+        ]
+      },
+      {
+        "name": "Special Resistance Ampoule",
+        "sections": [
+          {
+            "ref": "Workshop Union Entrance - Locations/ladder from red rooftops, down"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Workshop Union Entrance",
+            "x": 1100,
+            "y": 1220
+          }
+        ]
+      },
+      {
+        "name": "Attribute Resistance Ampoule",
+        "sections": [
+          {
+            "ref": "Workshop Union Entrance - Locations/dead-end down ladder from red rooftops"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Workshop Union Entrance",
+            "x": 720,
+            "y": 1256
+          }
+        ]
+      },
+      {
+        "name": "Fable Catalyst",
+        "sections": [
+          {
+            "ref": "Workshop Union Entrance - Locations/destructable boxes at a side path"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Workshop Union Entrance",
+            "x": 666,
+            "y": 715
+          }
+        ]
+      },
+      {
+        "name": "Gemini's Emergency Protection",
+        "sections": [
+          {
+            "ref": "Workshop Union Entrance - Locations/destructable boxes before bridge"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Workshop Union Entrance",
+            "x": 1106,
+            "y": 655
+          }
+        ]
+      },
+      {
+        "name": "Radiant Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Workshop Union Entrance - Locations/destructable boxes by the phone riddle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Workshop Union Entrance",
+            "x": 1868,
+            "y": 672
+          }
+        ]
+      },
+      {
+        "name": "Legion Magazine",
+        "sections": [
+          {
+            "ref": "Workshop Union Entrance - Locations/staircase after bridge"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Workshop Union Entrance",
+            "x": 1448,
+            "y": 253
+          }
+        ]
+      }
+    ]
+  }
+]
