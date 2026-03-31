@@ -36,6 +36,10 @@
                 "type": "map",
                 "maps": ["Elysion Boulevard Alchemist Bridge"]
               }
+            },
+            {
+              "title": "KCH",
+              "content": { "type": "map", "maps": ["Krat City Hall"] }
             }
           ]
         }
@@ -61,18 +65,6 @@
         }
       },
       {
-        "title": "KCH",
-        "content": {
-          "type": "tabbed",
-          "tabs": [
-            {
-              "title": "Krat City Hall",
-              "content": { "type": "map", "maps": ["Krat City Hall"] }
-            }
-          ]
-        }
-      },
-      {
         "title": "Ch03",
         "content": {
           "type": "tabbed",
@@ -91,7 +83,10 @@
             },
             {
               "title": "VWCR",
-              "content": { "type": "map", "maps": ["Venigni Works Control Room"] }
+              "content": {
+                "type": "map",
+                "maps": ["Venigni Works Control Room"]
+              }
             }
           ]
         }
@@ -99,4 +94,3 @@
     ]
   }
 }
-

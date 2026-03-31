@@ -28,8 +28,8 @@ Tracker:AddLocations("locations/ch02_elysion_boulevard_alchemist_bridge.json")
 Tracker:AddLocations("locations/logics/ch02_elysion_boulevard_alchemist_bridge.json")
 
 -- Krat City Hall
-Tracker:AddLocations("locations/krat_city_hall.json")
-Tracker:AddLocations("locations/logics/krat_city_hall.json")
+Tracker:AddLocations("locations/ch02_krat_city_hall.json")
+Tracker:AddLocations("locations/logics/ch02_krat_city_hall.json")
 
 -- Ch03 - Workshop Union Entrance
 Tracker:AddLocations("locations/ch03_workshop_union_entrance.json")
