@@ -1,7 +1,7 @@
 [
   {
     "name": "Workshop Union Entrance - Locations",
-    "access_rules": ["key_cityhall_courtyard", "boss_scrapped_watchman"],
+    "access_rules": ["key_cityhall_courtyard"],
     "sections": [
       {
         "name": "wagon after opening door",
@@ -24,15 +24,15 @@
         "access_rules": []
       },
       {
-        "name": "destructable boxes at a side path",
+        "name": "destructible boxes at a side path",
         "access_rules": []
       },
       {
-        "name": "destructable boxes before bridge",
+        "name": "destructible boxes before bridge",
         "access_rules": []
       },
       {
-        "name": "destructable boxes by the phone riddle",
+        "name": "destructible boxes by the phone riddle",
         "access_rules": []
       },
       {
