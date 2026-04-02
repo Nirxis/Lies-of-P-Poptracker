@@ -263,7 +263,7 @@ LOCATION_MAPPING = {
     -- =========================================================
 
     [196] = { "@St. Frangelico Cathedral Library - Locations/next to St. Frangelico Cathedral Library stargazer" },
-    [197] = { "@St. Frangelico Cathedral Library - Locations/Puprle Butterfly drop" },
+    [197] = { "@St. Frangelico Cathedral Library - Locations/Purple Butterfly drop" },
     [198] = { "@St. Frangelico Cathedral Library - Locations/behind a pillar near Purple Butterfly" },
     [199] = { "@St. Frangelico Cathedral Library - Locations/chest near Purple Butterfly" },
     [200] = { "@St. Frangelico Cathedral Library - Locations/before shortcut door near Purple Butterfly" },
