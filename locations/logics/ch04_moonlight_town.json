@@ -1,7 +1,7 @@
 [
   {
     "name": "MoonLight Town - Locations",
-    "access_rules": ["key_cityhall_courtyard"],
+    "access_rules": ["boss_fuoco"],
     "sections": [
       {
         "name": "tunnel leaving Venigni Works",

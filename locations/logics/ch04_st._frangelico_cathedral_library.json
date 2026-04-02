@@ -1,7 +1,7 @@
 [
   {
     "name": "St. Frangelico Cathedral Library - Locations",
-    "access_rules": ["key_cityhall_courtyard"],
+    "access_rules": ["boss_fuoco, key_cable_railway"],
     "sections": [
       {
         "name": "next to St. Frangelico Cathedral Library stargazer",
@@ -73,7 +73,7 @@
       },
       {
         "name": "after the elevator from Archbishop",
-        "access_rules": []
+        "access_rules": ["boss_andreus"]
       }
     ]
   }

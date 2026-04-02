@@ -1,7 +1,7 @@
 [
   {
     "name": "St. Frangelico Cathedral Chapel - Locations",
-    "access_rules": ["key_cityhall_courtyard"],
+    "access_rules": ["boss_fuoco, key_cable_railway"],
     "sections": [
       {
         "name": "seat infront of organ",
