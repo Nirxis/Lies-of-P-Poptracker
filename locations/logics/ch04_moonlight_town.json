@@ -3,7 +3,7 @@
     "name": "MoonLight Town - Locations",
     "access_rules": ["key_cityhall_courtyard"],
     "sections": [
-        {
+      {
         "name": "tunnel leaving Venigni Works",
         "access_rules": []
       },
@@ -84,13 +84,9 @@
         "access_rules": []
       },
       {
-        "name": "chest, ambush with locked gate",
-        "access_rules": []
-      },
-      {
         "name": "gravestone before Atoned",
         "access_rules": []
       }
-        ]
+    ]
   }
 ]
