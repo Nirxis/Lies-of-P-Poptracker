@@ -4,7 +4,7 @@
     "access_rules": ["key_cityhall_courtyard"],
     "sections": [
         {
-        "name": "seat infront of organ",
+        "name": "seat in front of organ",
         "access_rules": []
       },
       {
