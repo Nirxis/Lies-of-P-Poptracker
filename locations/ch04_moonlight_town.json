@@ -183,15 +183,6 @@
         ]
       },
       {
-        "name": "Workshop Union Standard Corrosion Resistance Converter",
-        "sections": [
-          { "ref": "MoonLight Town - Locations/chest, ambush with locked gate" }
-        ],
-        "map_locations": [
-          { "map": "MoonLight Town", "x": 448, "y": 796 }
-        ]
-      },
-      {
         "name": "Dim Ergo Fragment",
         "sections": [
           { "ref": "MoonLight Town - Locations/gravestone before Atoned" }
