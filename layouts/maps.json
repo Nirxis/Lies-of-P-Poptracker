@@ -105,6 +105,22 @@
         }
       },
       {
+        "title": "Ch05",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "POTP",
+              "content": { "type": "map", "maps": ["Path of the Pilgrim"] }
+            },
+            {
+              "title": "MD",
+              "content": { "type": "map", "maps": ["Malum District"] }
+            }
+          ]
+        }
+      },
+      {
         "title": "Hotel Krat",
         "content": {
           "type": "tabbed",
