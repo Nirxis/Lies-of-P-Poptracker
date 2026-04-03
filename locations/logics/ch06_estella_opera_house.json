@@ -8,7 +8,7 @@
             "access_rules": []
         },
         {
-            "name": "bench",
+            "name": "on a bench",
             "access_rules": []
         },
         {
@@ -32,7 +32,7 @@
             "access_rules": []
         },
         {
-            "name": "table in hallway",
+            "name": "on a table in hallway",
             "access_rules": []
         },
         {
@@ -40,7 +40,7 @@
             "access_rules": []
         },
         {
-            "name": "safe in small room",
+            "name": "in safe in small room",
             "access_rules": []
         },
         {
@@ -98,6 +98,14 @@
         {
             "name": "Someone's Necklace",
             "access_rules": []
+        },
+        {
+            "name": "Trinity door loot (1)",
+            "access_rules": ["key_trinity"]
+        },
+        {
+            "name": "Trinity door loot (2)",
+            "access_rules": ["key_trinity"]
         }
     ]
 }

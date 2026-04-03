@@ -137,6 +137,38 @@
         }
       },
       {
+        "title": "Ch07",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "LA",
+              "content": { "type": "map", "maps": ["Lorenzini Arcade"] }
+            },
+            {
+              "title": "GE",
+              "content": { "type": "map", "maps": ["Grand Exhibition"] }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Ch08",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "BS",
+              "content": { "type": "map", "maps": ["Barren Swamp"] }
+            },
+            {
+              "title": "HS",
+              "content": { "type": "map", "maps": ["Hermit Cave"] }
+            }
+          ]
+        }
+      },
+      {
         "title": "Hotel Krat",
         "content": {
           "type": "tabbed",

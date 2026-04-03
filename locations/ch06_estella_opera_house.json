@@ -17,7 +17,7 @@
         "name": "Electric Blitz Abrasive",
         "sections": [
           {
-            "ref": "Estella Opera House - Locations/bench"
+            "ref": "Estella Opera House - Locations/on a bench"
           }
         ],
         "map_locations": [
@@ -83,7 +83,7 @@
         "name": "Fable Catalyst",
         "sections": [
           {
-            "ref": "Estella Opera House - Locations/table in hallway"
+            "ref": "Estella Opera House - Locations/on a table in hallway"
           }
         ],
         "map_locations": [
@@ -105,7 +105,7 @@
         "name": "Exploding Pickaxe",
         "sections": [
           {
-            "ref": "Estella Opera House - Locations/safe in small room"
+            "ref": "Estella Opera House - Locations/in safe in small room"
           }
         ],
         "map_locations": [
@@ -248,6 +248,28 @@
         ],
         "map_locations": [
           { "map": "Estella Opera House", "x": 770, "y": 513 }
+        ]
+      },
+      {
+        "name": "Belford Superior Radiation Converter",
+        "sections": [
+          {
+            "ref": "Estella Opera House - Locations/Trinity door loot (1)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Estella Opera House", "x": 1923, "y": 1062 }
+        ]
+      },
+      {
+        "name": "Quartz",
+        "sections": [
+          {
+            "ref": "Estella Opera House - Locations/Trinity door loot (2)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Estella Opera House", "x": 1924, "y": 1094 }
         ]
       }
 
