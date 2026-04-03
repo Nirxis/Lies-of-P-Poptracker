@@ -361,8 +361,78 @@ LOCATION_MAPPING = {
     [281] = { "@Malum District - Locations/chest in Black Rabbit Brotherhood hideout" },
     [282] = { "@Malum District - Locations/upstairs in Black Rabbit Brotherhood hideout" },
 
-}
+    -- =========================================================
+    -- Rosa Isabelle Street (IDs 284-322)
+    -- =========================================================
 
+    [284] = { "@Rosa Isabelle Street - Locations/behind destructable objects near staircase" },
+    [285] = { "@Rosa Isabelle Street - Locations/across from Gaspard Theatre" },
+    [286] = { "@Rosa Isabelle Street - Locations/downstairs near Old Lady at the Window" },
+    [287] = { "@Rosa Isabelle Street - Locations/beside Old Lady at the Window" },
+    [288] = { "@Rosa Isabelle Street - Locations/wagon near Mrs.Potts building" },
+    [289] = { "@Rosa Isabelle Street - Locations/burning gate and shortcut gate" },
+    [290] = { "@Rosa Isabelle Street - Locations/before building with exploding puppets" },
+    [291] = { "@Rosa Isabelle Street - Locations/shortcut ladder with exploading puppets" },
+    [292] = { "@Rosa Isabelle Street - Locations/bed near baby puppets" },
+    [293] = { "@Rosa Isabelle Street - Locations/table in room with baby puppets" },
+    [294] = { "@Rosa Isabelle Street - Locations/safe next to shortcut door" },
+    [295] = { "@Rosa Isabelle Street - Locations/counter in room with maid puppets" },
+    [296] = { "@Rosa Isabelle Street - Locations/wagon near the Bar and Grill" },
+    [297] = { "@Rosa Isabelle Street - Locations/behind overheat throwing puppet" },
+    [298] = { "@Rosa Isabelle Street - Locations/near White Lady" },
+    [299] = { "@Rosa Isabelle Street - Locations/The White Lady's Locket" },
+    [300] = { "@Rosa Isabelle Street - Locations/The White Lady's Mask" },
+    [301] = { "@Rosa Isabelle Street - Locations/corpse next to a wagon after White Lady" },
+    [302] = { "@Rosa Isabelle Street - Locations/hidden path behind boxes" },
+    [303] = { "@Rosa Isabelle Street - Locations/corner near Red Butterfly in small courtyard" },
+    [304] = { "@Rosa Isabelle Street - Locations/Red Butterfly drop" },
+    [305] = { "@Rosa Isabelle Street - Locations/behind Red Butterfly" },
+    [306] = { "@Rosa Isabelle Street - Locations/chest behind shortcut gate" },
+    [307] = { "@Rosa Isabelle Street - Locations/sewers before drop" },
+    [308] = { "@Rosa Isabelle Street - Locations/chest in sewers" },
+    [309] = { "@Rosa Isabelle Street - Locations/shortcut by White Lady" },
+    [310] = { "@Rosa Isabelle Street - Locations/shortcut to Rosa Isabelle Street Culvert stargazer" },
+    [311] = { "@Rosa Isabelle Street - Locations/near exploding puppets" },
+    [312] = { "@Rosa Isabelle Street - Locations/by rifleman puppet" },
+    [313] = { "@Rosa Isabelle Street - Locations/red boxes" },
+    [314] = { "@Rosa Isabelle Street - Locations/across bridge" },
+    [315] = { "@Rosa Isabelle Street - Locations/safe with baby puppets" },
+    [316] = { "@Rosa Isabelle Street - Locations/bush" },
+    [317] = { "@Rosa Isabelle Street - Locations/shortcut to Rosa Isabelle Street Entrance stargazer" },
+    [318] = { "@Rosa Isabelle Street - Locations/wagon near Mad Clown Puppet" },
+    [319] = { "@Rosa Isabelle Street - Locations/ledge near Mad Clown Puppet" },
+    [320] = { "@Rosa Isabelle Street - Locations/left side near Mad Clown Puppet" },
+    [321] = { "@Rosa Isabelle Street - Locations/volunteers wanted sign" },
+    [322] = { "@Rosa Isabelle Street - Locations/Mad Clown Puppet drop" },
 
-
+    -- =========================================================
+    -- Estella Opera House (IDs 323-342, 345-348)
+    -- =========================================================
     
+    [323] = { "@Estella Opera House - Locations/statue by stargazer" },
+    [324] = { "@Estella Opera House - Locations/bench" },
+    [325] = { "@Estella Opera House - Locations/by spotlight" },
+    [326] = { "@Estella Opera House - Locations/front of shortcut door" },
+    [327] = { "@Estella Opera House - Locations/right side lower balcony" },
+    [328] = { "@Estella Opera House - Locations/right side upper balcony" },
+    [329] = { "@Estella Opera House - Locations/chest near Adelina" },
+    [330] = { "@Estella Opera House - Locations/table in hallway" },
+    [331] = { "@Estella Opera House - Locations/chest in dark room" },
+    [332] = { "@Estella Opera House - Locations/safe in small room" },
+    [333] = { "@Estella Opera House - Locations/sculpture of head" },
+    [334] = { "@Estella Opera House - Locations/beside Trinity door" },
+    [335] = { "@Estella Opera House - Locations/safe in small room" },
+    [336] = { "@Estella Opera House - Locations/dead-end of hallway" },
+    [337] = { "@Estella Opera House - Locations/table in hallway" },
+    [338] = { "@Estella Opera House - Locations/on desk" },
+    [339] = { "@Estella Opera House - Locations/chest next to bookcase" },
+    [340] = { "@Estella Opera House - Locations/wood beam" },
+    [341] = { "@Estella Opera House - Locations/Red Butterfly drop" },
+    [342] = { "@Estella Opera House - Locations/bench" },
+    [345] = { "@Estella Opera House - Locations/before King of Puppets" },
+    [346] = { "@Estella Opera House - Locations/Burnt-White King's Ergo" },
+    [347] = { "@Estella Opera House - Locations/Puppet Prince's Formal Dress" },
+    [348] = { "@Estella Opera House - Locations/Someone's Necklace" },
+    
+
+}
