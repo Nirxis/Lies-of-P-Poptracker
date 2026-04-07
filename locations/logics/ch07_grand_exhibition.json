@@ -145,7 +145,7 @@
         },
         {
             "name": "behind Saintless of Mercy Statue",
-            "access_rules": []
+            "access_rules": ["key_saintess_gallery"]
         }
 
 
