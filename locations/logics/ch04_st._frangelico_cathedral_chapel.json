@@ -69,11 +69,11 @@
       },
       {
         "name": "Black Cat's Amulet",
-        "access_rules": ["key_trinity"]
+        "access_rules": ["key_trinity:2"]
       },
       {
         "name": "Moster Sweeper's Hunting Apparel",
-        "access_rules": ["key_trinity"]
+        "access_rules": ["key_trinity:2"]
       }
     ]
   }
