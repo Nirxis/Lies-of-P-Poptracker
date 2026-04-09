@@ -169,6 +169,66 @@
         }
       },
       {
+        "title": "Ch09",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "KCS2",
+              "content": { "type": "map", "maps": ["Krat Central Station Return"] }
+            },
+            {
+              "title": "CK",
+              "content": { "type": "map", "maps": ["Collapsing Krat"] }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Ch10",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "ROT",
+              "content": { "type": "map", "maps": ["Relic of Trismegistus"] }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Ch11",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "BS",
+              "content": { "type": "map", "maps": ["Black Seaside"] }
+            },
+            {
+              "title": "AAE",
+              "content": { "type": "map", "maps": ["Arche Abbey Entrance"] }
+            },
+            {
+              "title": "AAOW",
+              "content": { "type": "map", "maps": ["Arche Abbey Lower Outer Wall"] }
+            },
+            {
+              "title": "AAU",
+              "content": { "type": "map", "maps": ["Arche Abbey Upper Outer Wall"] }
+            },
+                        {
+              "title": "AAI",
+              "content": { "type": "map", "maps": ["Arche Abbey Inside"] }
+            },
+            {
+              "title": "AAP",
+              "content": { "type": "map", "maps": ["Arche Abbey Passageway"] }
+            }
+          ]
+        }
+      },
+      {
         "title": "Hotel Krat",
         "content": {
           "type": "tabbed",

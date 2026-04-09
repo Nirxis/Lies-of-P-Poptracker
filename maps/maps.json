@@ -142,5 +142,59 @@
     "location_size": 12,
     "location_border_thickness": 2,
     "img": "images/maps/hermit_cave.png"
+  },
+  {
+    "name": "Krat Central Station Return",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/krat_central_station_return.png"
+  },
+  {
+    "name": "Collapsing Krat",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/collapsing_krat.png"
+  },
+  {
+    "name": "Relic of Trismegistus",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/relic_of_trismegistus.png"
+  },
+  {
+    "name": "Black Seaside",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/black_seaside.png"
+  },
+  {
+    "name": "Arche Abbey Entrance",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/arche_abbey_entrance.png"
+  },
+  {
+    "name": "Arche Abbey Inside",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/arche_abbey_inside.png"
+  },
+  {
+    "name": "Arche Abbey Lower Outer Wall",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/arche_abbey_lower_outer_wall.png"
+  },
+  {
+    "name": "Arche Abbey Passageway",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/arche_abbey_passageway.png"
+  },
+  {
+    "name": "Arche Abbey Upper Outer Wall",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/arche_abbey_upper_outer_wall.png"
   }
 ]

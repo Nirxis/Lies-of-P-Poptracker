@@ -96,3 +96,19 @@ Tracker:AddLocations("locations/logics/ch08_barren_swamp.json")
 -- Ch08 - Hermit Cave
 Tracker:AddLocations("locations/ch08_hermit_cave.json")
 Tracker:AddLocations("locations/logics/ch08_hermit_cave.json")
+
+-- Ch09 - Krat Central Station Return
+Tracker:AddLocations("locations/ch09_krat_central_station_return.json")
+Tracker:AddLocations("locations/logics/ch09_krat_central_station_return.json")
+
+-- Ch09 - Collapsing Krat
+Tracker:AddLocations("locations/ch09_collapsing_krat.json")
+Tracker:AddLocations("locations/logics/ch09_collapsing_krat.json")
+
+-- Ch10 - Relic of Trismegistus
+Tracker:AddLocations("locations/ch10_relic_of_trismegistus.json")
+Tracker:AddLocations("locations/logics/ch10_relic_of_trismegistus.json")
+
+-- Ch11 - Black Seaside
+Tracker:AddLocations("locations/ch11_black_seaside.json")
+Tracker:AddLocations("locations/logics/ch11_black_seaside.json")
